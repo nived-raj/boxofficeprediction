@@ -1,0 +1,285 @@
+Action
+Adventure
+Animation
+Biography
+Comedy
+Crime
+Drama
+Family
+Fantasy
+History
+Horror
+Music
+Musical
+Mystery
+Romance
+Sci-Fi
+Sport
+Thriller
+War
+Western
+Aamir Khan
+Al Pacino
+Albert Brooks
+Alexandra Maria Lara
+Amy Adams
+Anthony Hopkins
+Arnold Schwarzenegger
+Ben Affleck
+Ben Kingsley
+Benicio Del Toro
+Bill Murray
+Bill Nighy
+Bill Paxton
+Billy Crudup
+Brad Pitt
+Bradley Cooper
+Brenda Blethyn
+Brendan Gleeson
+Bruce Willis
+Bryan Cranston
+Carrie Fisher
+Cary Elwes
+Cate Blanchett
+Catherine Keener
+Chiwetel Ejiofor
+Chloë Grace Moretz
+Chris Cooper
+Chris Evans
+Chris Hemsworth
+Chris Pine
+Chris Pratt
+Christian Bale
+Christopher Lloyd
+Christopher Plummer
+Christopher Walken
+Clint Eastwood
+Clive Owen
+Colin Firth
+Dakota Fanning
+Daniel Craig
+Daniel Day-Lewis
+Daniel Radcliffe
+Danny Aiello
+Danny Glover
+Denzel Washington
+Diane Keaton
+Diane Kruger
+Dianne Wiest
+Domhnall Gleeson
+Donald Sutherland
+Dustin Hoffman
+Ed Harris
+Edward Norton
+Elijah Wood
+Emma Stone
+Emma Watson
+Ethan Coen
+Ethan Hawke
+Ewan McGregor
+Frances McDormand
+Franka Potente
+Gael García Bernal
+Gary Oldman
+Gena Rowlands
+Gene Hackman
+Gene Wilder
+Geoffrey Rush
+George Clooney
+Gerard Butler
+Guy Pearce
+Harrison Ford
+Hugh Jackman
+Ian McKellen
+Irrfan Khan
+Jack Nicholson
+Jack Warden
+Jake Gyllenhaal
+James Caan
+James McAvoy
+Jared Leto
+Javier Bardem
+Jay Baruchel
+Jean-Louis Trintignant
+Jeff Bridges
+Jennifer Connelly
+Jeremy Renner
+Joaquin Phoenix
+Jodie Foster
+Joe Pesci
+Joe Russo
+John Cazale
+John Goodman
+John Malkovich
+John Musker
+John Turturro
+Johnny Depp
+Jon Bernthal
+Joseph Gordon-Levitt
+Josh Brolin
+Jude Law
+Judi Dench
+Julianne Moore
+Julie Delpy
+Kang-ho Song
+Kate Winslet
+Kathy Bates
+Keira Knightley
+Ken Watanabe
+Kerry Washington
+Kevin Bacon
+Kevin Costner
+Kevin Spacey
+Kurt Russell
+Laura Dern
+Lee Unkrich
+Leonardo DiCaprio
+Liam Neeson
+Mads Mikkelsen
+Marion Cotillard
+Mark Hamill
+Mark Ruffalo
+Mark Wahlberg
+Martin Freeman
+Matt Damon
+Matthew Broderick
+Matthew McConaughey
+Mel Gibson
+Meryl Streep
+Mia Farrow
+Michael Caine
+Michael Madsen
+Michelle Williams
+Morgan Freeman
+Naomi Watts
+Natalie Portman
+Nawazuddin Siddiqui
+Nicolas Cage
+Nicole Kidman
+Octavia Spencer
+Orlando Bloom
+Patricia Arquette
+Philip Seymour Hoffman
+Rachel McAdams
+Ralph Fiennes
+Robert De Niro
+Robert Downey Jr.
+Robert Duvall
+Robin Williams
+Robin Wright
+Rooney Mara
+Roy Scheider
+Rupert Grint
+Russell Crowe
+Ryan Gosling
+Sam Rockwell
+Samantha Morton
+Samuel L. Jackson
+Sandra Bullock
+Scarlett Johansson
+Sean Connery
+Sean Penn
+Shah Rukh Khan
+Sigourney Weaver
+Simon Pegg
+Stellan Skarsgård
+Steve Carell
+Sushant Singh Rajput
+Sylvester Stallone
+Tabu
+Taika Waititi
+Tim Allen
+Tim Robbins
+Tom Cruise
+Tom Hanks
+Tom Hardy
+Tony Chiu-Wai Leung
+Uma Thurman
+Val Kilmer
+Viggo Mortensen
+Vin Diesel
+Willem Dafoe
+Winona Ryder
+Won Bin
+Woody Allen
+Woody Harrelson
+Zoe Saldana
+Director_Alan Parker
+Director_Alejandro Amenábar
+Director_Alejandro G. Iñárritu
+Director_Alfonso Cuarón
+Director_Ang Lee
+Director_Anthony Russo
+Director_Asghar Farhadi
+Director_Bong Joon Ho
+Director_Brad Bird
+Director_Brian De Palma
+Director_Bryan Singer
+Director_Chan-wook Park
+Director_Christopher Nolan
+Director_Clint Eastwood
+Director_Danny Boyle
+Director_Darren Aronofsky
+Director_David Fincher
+Director_David Lynch
+Director_David Yates
+Director_Denis Villeneuve
+Director_Edgar Wright
+Director_Edward Zwick
+Director_Francis Ford Coppola
+Director_Giuseppe Tornatore
+Director_Guy Ritchie
+Director_Hayao Miyazaki
+Director_J.J. Abrams
+Director_James Cameron
+Director_James Mangold
+Director_Jim Jarmusch
+Director_Jim Sheridan
+Director_Joel Coen
+Director_John Hughes
+Director_John McTiernan
+Director_Krzysztof Kieslowski
+Director_Lars von Trier
+Director_Martin Scorsese
+Director_Matthew Vaughn
+Director_Mel Gibson
+Director_Michael Mann
+Director_Paul Greengrass
+Director_Paul Thomas Anderson
+Director_Pedro Almodóvar
+Director_Pete Docter
+Director_Peter Jackson
+Director_Quentin Tarantino
+Director_Rajkumar Hirani
+Director_Richard Linklater
+Director_Ridley Scott
+Director_Rob Reiner
+Director_Robert Zemeckis
+Director_Roman Polanski
+Director_Ron Clements
+Director_Ron Howard
+Director_Sam Mendes
+Director_Satoshi Kon
+Director_Sidney Lumet
+Director_Spike Jonze
+Director_Spike Lee
+Director_Stanley Kubrick
+Director_Steven Spielberg
+Director_Taika Waititi
+Director_Terry Gilliam
+Director_Tim Burton
+Director_Tom McCarthy
+Director_Wes Anderson
+Director_Woody Allen
+Certificate_A
+Certificate_G
+Certificate_PG
+Certificate_PG-13
+Certificate_R
+Certificate_U
+Certificate_UA
+Epic (> 180 min)
+Long Feature (120-150 min)
+Short Feature (60-90 min)
+Standard Feature (90-120 min)
+Very Long Feature (150-180 min)
