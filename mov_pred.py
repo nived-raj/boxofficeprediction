@@ -8,11 +8,11 @@ import joblib
 
 
 # Load the pickled KNN model
-knn_model = joblib.load('/home/ec2-user/movie_rev/movie_revenue_model.pkl')
+knn_model = joblib.load('movie_revenue_model.pkl')
 
 
 #import the orginal file
-movies_df_augmented = pd.read_csv('/home/ec2-user/movie_rev/mov_dat_stream.csv')
+movies_df_augmented = pd.read_csv('mov_dat_stream.csv')
 
 #For the input datafame column -
 df_columns = ['Action',
