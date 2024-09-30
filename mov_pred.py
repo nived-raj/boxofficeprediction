@@ -6,6 +6,27 @@ from sklearn.neighbors import NearestNeighbors
 
 import joblib
 
+st.set_page_config(
+    page_title="Boxoffice Revenue Prediction | Nived Raj",  
+    
+)
+
+# Custom CSS to force light mode and hide theme toggle
+st.markdown("""
+    <style>
+    /* Force light mode by hiding the theme toggle button */
+    [data-testid="stToolbar"] {
+        visibility: hidden;
+    }
+
+    /* Ensures the app loads in light mode */
+    body {
+        background-color: white !important;
+        color: black !important;
+    }
+    </style>
+""", unsafe_allow_html=True)
+
 
 # Load the pickled KNN model
 knn_model = joblib.load('movie_revenue_model.pkl')
